@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_send"
+        android:icon="@drawable/ic_send"
+        android:title="@string/send" />
+    <item
+        android:id="@+id/nav_receive"
+        android:icon="@drawable/ic_receive"
+        android:title="@string/receive" />
+    <item
+        android:id="@+id/nav_qr"
+        android:icon="@drawable/ic_qr"
+        android:title="QR" />
+</menu>
